@@ -1,0 +1,8 @@
+# print ("Hello World!")
+# print ("Hello Again")
+# print ("I like typing this.")
+# print ('Yay! Printing.')
+# print ("I'd much rather you 'not'.")
+print ('I "said" do not touch this.')
+print ("This is a change to see how the git staging process works")
+print ("Yet another change to test the modified status")
