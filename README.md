@@ -1,2 +1,2 @@
 # lpthw
-All projects required in the book Learn Python The Hard Way
+All projects required in the book: Learn Python The Hard Way
